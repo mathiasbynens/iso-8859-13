@@ -2,7 +2,7 @@
 
 _iso-8859-13_ is a robust JavaScript implementation of [the iso-8859-13 character encoding as defined by the Encoding Standard](http://encoding.spec.whatwg.org/#iso-8859-13).
 
-This encoding is known under the following names: iso-8859-13, iso8859-13, iso885913, and iso885913.
+This encoding is known under the following names: iso-8859-13, iso8859-13, and iso885913.
 
 ## Installation
 
