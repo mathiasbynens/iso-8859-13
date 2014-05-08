@@ -3,7 +3,7 @@
 	"version": "0.1.1",
 	"description": "A robust iso-8859-13 encoder/decoder written in JavaScript.",
 	"homepage": "http://mths.be/iso-8859-13",
-	"main": "iso885913.js",
+	"main": "iso-8859-13.js",
 	"keywords": [
 		"codec",
 		"decoder",
@@ -32,7 +32,7 @@
 	},
 	"files": [
 		"LICENSE-MIT.txt",
-		"iso885913.js"
+		"iso-8859-13.js"
 	],
 	"directories": {
 		"test": "tests"
