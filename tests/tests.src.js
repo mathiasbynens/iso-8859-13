@@ -35,7 +35,7 @@
 
 	// explicitly call `QUnit.module()` instead of `module()`
 	// in case we are in a CLI environment
-	QUnit.module('iso885913');
+	QUnit.module('iso-8859-13');
 
 	test('iso885913.encode', function() {
 		equal(
