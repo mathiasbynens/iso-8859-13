@@ -12,23 +12,15 @@ Via [npm](https://www.npmjs.com/):
 npm install iso-8859-13
 ```
 
-In a browser:
-
-```html
-<script src="iso-8859-13.js"></script>
-```
-
-In [Node.js](https://nodejs.org/):
+In a browser or in [Node.js](https://nodejs.org/):
 
 ```js
-const iso885913 = require('iso-8859-13');
+import {encode, decode, labels} from 'iso-8859-13';
+// or…
+import * as iso885913 from 'iso-8859-13';
 ```
 
 ## API
-
-### `iso885913.version`
-
-A string representing the semantic version number.
 
 ### `iso885913.labels`
 
